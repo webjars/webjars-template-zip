@@ -1,5 +1,5 @@
-WebJar for [Library]
+## WebJar for WEBJAR_NAME
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: WEBJAR_URL
